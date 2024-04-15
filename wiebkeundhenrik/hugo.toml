@@ -1,0 +1,5 @@
+baseURL = ''
+languageCode = 'en-us'
+title = 'Wiebke und Henrik Photography'
+[[module.imports]]
+path = "github.com/willfaught/paige"
